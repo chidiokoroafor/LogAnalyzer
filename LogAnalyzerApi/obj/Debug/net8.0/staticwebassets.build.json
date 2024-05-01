@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "VJXcr/EKbwrjG9SDUemyydpAOPiGL1DM1zbgnqSQm6A=",
+  "Source": "LogAnalyzerApi",
+  "BasePath": "_content/LogAnalyzerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LogAnalyzerApi\\wwwroot",
+      "Source": "LogAnalyzerApi",
+      "ContentRoot": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerApi\\wwwroot\\",
+      "BasePath": "_content/LogAnalyzerApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

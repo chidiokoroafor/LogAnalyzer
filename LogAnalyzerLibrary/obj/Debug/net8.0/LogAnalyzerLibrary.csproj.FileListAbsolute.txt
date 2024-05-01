@@ -1,0 +1,11 @@
+C:\csharpprojects\LogAnalyzer\LogAnalyzerLibrary\bin\Debug\net8.0\LogAnalyzerLibrary.deps.json
+C:\csharpprojects\LogAnalyzer\LogAnalyzerLibrary\bin\Debug\net8.0\LogAnalyzerLibrary.dll
+C:\csharpprojects\LogAnalyzer\LogAnalyzerLibrary\bin\Debug\net8.0\LogAnalyzerLibrary.pdb
+C:\csharpprojects\LogAnalyzer\LogAnalyzerLibrary\obj\Debug\net8.0\LogAnalyzerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharpprojects\LogAnalyzer\LogAnalyzerLibrary\obj\Debug\net8.0\LogAnalyzerLibrary.AssemblyInfoInputs.cache
+C:\csharpprojects\LogAnalyzer\LogAnalyzerLibrary\obj\Debug\net8.0\LogAnalyzerLibrary.AssemblyInfo.cs
+C:\csharpprojects\LogAnalyzer\LogAnalyzerLibrary\obj\Debug\net8.0\LogAnalyzerLibrary.csproj.CoreCompileInputs.cache
+C:\csharpprojects\LogAnalyzer\LogAnalyzerLibrary\obj\Debug\net8.0\LogAnalyzerLibrary.dll
+C:\csharpprojects\LogAnalyzer\LogAnalyzerLibrary\obj\Debug\net8.0\refint\LogAnalyzerLibrary.dll
+C:\csharpprojects\LogAnalyzer\LogAnalyzerLibrary\obj\Debug\net8.0\LogAnalyzerLibrary.pdb
+C:\csharpprojects\LogAnalyzer\LogAnalyzerLibrary\obj\Debug\net8.0\ref\LogAnalyzerLibrary.dll

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\csharpprojects\\LogAnalyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1F0020-A9B8-4B6E-8C06-78A74A8D9FAB}|LogAnalyzerApi\\LogAnalyzerApi.csproj|c:\\csharpprojects\\loganalyzer\\loganalyzerapi\\controllers\\loganalyzercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1F0020-A9B8-4B6E-8C06-78A74A8D9FAB}|LogAnalyzerApi\\LogAnalyzerApi.csproj|solutionrelative:loganalyzerapi\\controllers\\loganalyzercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1F0020-A9B8-4B6E-8C06-78A74A8D9FAB}|LogAnalyzerApi\\LogAnalyzerApi.csproj|c:\\csharpprojects\\loganalyzer\\loganalyzerapi\\models\\loguploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1F0020-A9B8-4B6E-8C06-78A74A8D9FAB}|LogAnalyzerApi\\LogAnalyzerApi.csproj|solutionrelative:loganalyzerapi\\models\\loguploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A035A17D-D134-4FDE-9962-4CA6DD166214}|LogAnalyzerLibrary\\LogAnalyzerLibrary.csproj|c:\\csharpprojects\\loganalyzer\\loganalyzerlibrary\\analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A035A17D-D134-4FDE-9962-4CA6DD166214}|LogAnalyzerLibrary\\LogAnalyzerLibrary.csproj|solutionrelative:loganalyzerlibrary\\analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1F0020-A9B8-4B6E-8C06-78A74A8D9FAB}|LogAnalyzerApi\\LogAnalyzerApi.csproj|c:\\csharpprojects\\loganalyzer\\loganalyzerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1F0020-A9B8-4B6E-8C06-78A74A8D9FAB}|LogAnalyzerApi\\LogAnalyzerApi.csproj|solutionrelative:loganalyzerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1F0020-A9B8-4B6E-8C06-78A74A8D9FAB}|LogAnalyzerApi\\LogAnalyzerApi.csproj|c:\\csharpprojects\\loganalyzer\\loganalyzerapi\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1F0020-A9B8-4B6E-8C06-78A74A8D9FAB}|LogAnalyzerApi\\LogAnalyzerApi.csproj|solutionrelative:loganalyzerapi\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1F0020-A9B8-4B6E-8C06-78A74A8D9FAB}|LogAnalyzerApi\\LogAnalyzerApi.csproj|c:\\csharpprojects\\loganalyzer\\loganalyzerapi\\contracts\\iloganalyzerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1F0020-A9B8-4B6E-8C06-78A74A8D9FAB}|LogAnalyzerApi\\LogAnalyzerApi.csproj|solutionrelative:loganalyzerapi\\contracts\\iloganalyzerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1F0020-A9B8-4B6E-8C06-78A74A8D9FAB}|LogAnalyzerApi\\LogAnalyzerApi.csproj|c:\\csharpprojects\\loganalyzer\\loganalyzerapi\\services\\logganalyzerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1F0020-A9B8-4B6E-8C06-78A74A8D9FAB}|LogAnalyzerApi\\LogAnalyzerApi.csproj|solutionrelative:loganalyzerapi\\services\\logganalyzerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1F0020-A9B8-4B6E-8C06-78A74A8D9FAB}|LogAnalyzerApi\\LogAnalyzerApi.csproj|c:\\csharpprojects\\loganalyzer\\loganalyzerapi\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1F0020-A9B8-4B6E-8C06-78A74A8D9FAB}|LogAnalyzerApi\\LogAnalyzerApi.csproj|solutionrelative:loganalyzerapi\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogUploadModel.cs",
+              "DocumentMoniker": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerApi\\Models\\LogUploadModel.cs",
+              "RelativeDocumentMoniker": "LogAnalyzerApi\\Models\\LogUploadModel.cs",
+              "ToolTip": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerApi\\Models\\LogUploadModel.cs",
+              "RelativeToolTip": "LogAnalyzerApi\\Models\\LogUploadModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:40:39.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoggAnalyzerService.cs",
+              "DocumentMoniker": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerApi\\Services\\LoggAnalyzerService.cs",
+              "RelativeDocumentMoniker": "LogAnalyzerApi\\Services\\LoggAnalyzerService.cs",
+              "ToolTip": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerApi\\Services\\LoggAnalyzerService.cs",
+              "RelativeToolTip": "LogAnalyzerApi\\Services\\LoggAnalyzerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T22:44:33.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILogAnalyzerService.cs",
+              "DocumentMoniker": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerApi\\Contracts\\ILogAnalyzerService.cs",
+              "RelativeDocumentMoniker": "LogAnalyzerApi\\Contracts\\ILogAnalyzerService.cs",
+              "ToolTip": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerApi\\Contracts\\ILogAnalyzerService.cs",
+              "RelativeToolTip": "LogAnalyzerApi\\Contracts\\ILogAnalyzerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T22:44:03.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogAnalyzerController.cs",
+              "DocumentMoniker": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerApi\\Controllers\\LogAnalyzerController.cs",
+              "RelativeDocumentMoniker": "LogAnalyzerApi\\Controllers\\LogAnalyzerController.cs",
+              "ToolTip": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerApi\\Controllers\\LogAnalyzerController.cs",
+              "RelativeToolTip": "LogAnalyzerApi\\Controllers\\LogAnalyzerController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T22:42:03.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerApi\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "LogAnalyzerApi\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerApi\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "LogAnalyzerApi\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T22:14:23.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerApi\\Program.cs",
+              "RelativeDocumentMoniker": "LogAnalyzerApi\\Program.cs",
+              "ToolTip": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerApi\\Program.cs",
+              "RelativeToolTip": "LogAnalyzerApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:32:52.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Analyzer.cs",
+              "DocumentMoniker": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerLibrary\\Analyzer.cs",
+              "RelativeDocumentMoniker": "LogAnalyzerLibrary\\Analyzer.cs",
+              "ToolTip": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerLibrary\\Analyzer.cs",
+              "RelativeToolTip": "LogAnalyzerLibrary\\Analyzer.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAkwJwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:12:30.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerApi\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "LogAnalyzerApi\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\csharpprojects\\LogAnalyzer\\LogAnalyzerApi\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "LogAnalyzerApi\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:31:56.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
